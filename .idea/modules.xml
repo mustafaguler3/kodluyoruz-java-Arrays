@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/MatrixLetterA/MatrixLetterA.iml" filepath="$PROJECT_DIR$/MatrixLetterA/MatrixLetterA.iml" />
       <module fileurl="file://$PROJECT_DIR$/MaxAndMin/MaxAndMin.iml" filepath="$PROJECT_DIR$/MaxAndMin/MaxAndMin.iml" />
       <module fileurl="file://$PROJECT_DIR$/RepeatedEvenNumber/RepeatedEvenNumber.iml" filepath="$PROJECT_DIR$/RepeatedEvenNumber/RepeatedEvenNumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SortArray/SortArray.iml" filepath="$PROJECT_DIR$/SortArray/SortArray.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/kodluyoruz-java-Arrays.iml" filepath="$PROJECT_DIR$/.idea/kodluyoruz-java-Arrays.iml" />
     </modules>
   </component>
