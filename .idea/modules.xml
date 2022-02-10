@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/FreqCount/FreqCount.iml" filepath="$PROJECT_DIR$/FreqCount/FreqCount.iml" />
       <module fileurl="file://$PROJECT_DIR$/HarmonicAverage/HarmonicAverage.iml" filepath="$PROJECT_DIR$/HarmonicAverage/HarmonicAverage.iml" />
       <module fileurl="file://$PROJECT_DIR$/MatrixLetterA/MatrixLetterA.iml" filepath="$PROJECT_DIR$/MatrixLetterA/MatrixLetterA.iml" />
       <module fileurl="file://$PROJECT_DIR$/MaxAndMin/MaxAndMin.iml" filepath="$PROJECT_DIR$/MaxAndMin/MaxAndMin.iml" />
