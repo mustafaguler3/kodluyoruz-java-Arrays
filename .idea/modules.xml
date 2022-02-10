@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/HarmonicAverage/HarmonicAverage.iml" filepath="$PROJECT_DIR$/HarmonicAverage/HarmonicAverage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/kodluyoruz-java-Arrays.iml" filepath="$PROJECT_DIR$/.idea/kodluyoruz-java-Arrays.iml" />
+    </modules>
+  </component>
+</project>
