@@ -14,7 +14,7 @@ public class main {
                 }
             }
         }
-        for (int value : repeatList){
+        for (int value : repeatedList){
             if (value != 0){
                 System.out.println(value);
             }
