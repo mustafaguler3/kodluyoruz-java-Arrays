@@ -2,9 +2,12 @@ public class main {
     public static void main(String[] args) {
 
         int[] list = {15, 12, 788, 1, -1, -778, 2, 0};
+
         int max = list[0];
         int min = list[0];
+
         int closestMin = 0, closestMax = 0;
+
 
         for (int i : list) {
             if (i > max)
@@ -14,7 +17,7 @@ public class main {
         }
 
         int difMax = max - list[0];
-        int difMin = (list[0] - min);
+        int difMin = list[0] - min;
 
         for (int j = 0; j < list.length - 1; j++) {
             if (difMax >= (max - list[j])) {
